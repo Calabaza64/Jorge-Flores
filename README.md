@@ -1,2 +1,2 @@
 # Jorge-Flores
-Tranajo de informatica
+Trabajo de informatica
